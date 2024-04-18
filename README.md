@@ -1,6 +1,6 @@
-# Encora test
+# EC2 Infrastructure
 
-This Terraform project is designed to create essential infrastructure components on AWS for deploying applications. It allows you to create a flexible VPC setup, subnets, an Autoscaling Group with EC2 instances, and an Application Load Balancer (ALB) to facilitate high availability and load balancing for your application servers.
+This Terraform project is designed to create essential infrastructure components on AWS for deploying applications into EC2 instances. It allows you to create a flexible VPC setup, subnets, an Autoscaling Group with EC2 instances, and an Application Load Balancer (ALB) to facilitate high availability and load balancing for your application servers.
 
 ## Infrastructure components
 
